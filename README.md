@@ -1,5 +1,5 @@
 # SF1906VisionFilmML
-Machine learning analysis of *A Trip Down Market Street* (1906), historical footage of San Francisco filmed on April 14, 1906, days before the earthquake and fire.
+Machine learning analysis of *A Trip Down Market Street Before the Fire* (1906), historical footage of San Francisco filmed on April 14, 1906, days before the earthquake and fire.
 
 
 ## Sample Frames
@@ -9,3 +9,5 @@ Machine learning analysis of *A Trip Down Market Street* (1906), historical foot
 </div>
 
 Thes stills are from a 4K scan of *A Trip Down Market Street Before the Fire* (April 1906), sourced from the Prelinger Archives (public domain). Full footage available [here](https://archive.org/details/MarketStreet19064KScan20181016).
+
+The original footage was filmed by the Miles Brothers on April 14, 1906, just days before the San Francisco earthquake and fire of April 18, 1906.
