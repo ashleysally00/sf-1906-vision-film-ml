@@ -10,4 +10,4 @@ Machine learning analysis of *A Trip Down Market Street Before the Fire* (1906),
 
 Thes stills are from a 4K scan of *A Trip Down Market Street Before the Fire* (April 1906), sourced from the Prelinger Archives (public domain). Full footage available [here](https://archive.org/details/MarketStreet19064KScan20181016).
 
-The original footage was filmed by the Miles Brothers on April 14, 1906, just days before the San Francisco earthquake and fire of April 18, 1906.
+The original footage was filmed by the Miles Brothers on April 14, 1906, just days before the San Francisco earthquake and fire of April 1906.
